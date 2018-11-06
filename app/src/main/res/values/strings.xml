@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="img">.</string>
+    <string name="textView">Enter amount</string>
+    <string name="button">Convert</string>
+    <string name="textNumber">Amount</string>
+    <string name="textNumber2">Amount in $</string>
+    <string name="amountView">Amount in $</string>
+    <string name="amountView2">.</string>
+    <string name="amountView3">Amount in $</string>
+</resources>
